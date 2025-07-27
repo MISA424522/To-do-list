@@ -4,11 +4,11 @@
 
   "rules": {
 
-    "no-unused-vars": "warn",            // 未使用変数に気づくことができる
+    "no-unused-vars": "warn", 
 
-    "quotes": ["warn", "double"],       // ダブルクォートで統一（好みで変更OK）
+    "quotes": ["warn", "double"],
 
-    "prefer-const": "warn"           // 不変の変数はconstに
+    "prefer-const": "warn"
 
   }
 
